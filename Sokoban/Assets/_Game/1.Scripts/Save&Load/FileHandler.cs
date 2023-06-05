@@ -10,6 +10,7 @@ public static class FileHandler {
         Debug.Log (GetPath (filename));
         string content = JsonHelper.ToJson<T> (toSave.ToArray ());
         WriteFile (GetPath (filename), content);
+        Debug.Log(GetPath(filename));
     }
 
     public static void SaveToJSON<T> (T toSave, string filename) {
