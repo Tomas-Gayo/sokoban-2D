@@ -15,7 +15,8 @@ El objetivo principal es empujar las cajas dispuestas en el nivel en los cuadrad
 
 ## Demo
 
-Se puede ver la [demostración del juego en video](https://youtu.be/ERlyqRKOxlg) en Youtube para su versión de PC. 
+Se puede ver la [demostración del editor en video](https://youtu.be/ERlyqRKOxlg) en Youtube para su versión de PC. 
+También se puede ver [una demostración de los posibles niveles](https://youtu.be/uWwVGugwnzE) que se pueden crear con el editor. 
 
 
 ## Atribuciones
