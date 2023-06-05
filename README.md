@@ -22,5 +22,5 @@ Se puede ver la [demostración del juego en video](https://youtu.be/ERlyqRKOxlg)
 
 - **Sprites Entorno**: [Web Kenney]([https://freesound.org/people/szegvari/sounds/581635/](https://kenney.nl/assets/sokoban))
 
-- **Sprite personaje**: [Usuario nectanebo.itch.io](https://nectanebo.itch.io/top-down-character)
+- **Sprite personaje**: [Usuario nectanebo](https://nectanebo.itch.io/top-down-character)
 
