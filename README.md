@@ -5,8 +5,6 @@ Sokoban Editor 2D es un editor de niveles con las mecánicas del juego original 
 
 - [Cómo jugar]()
 - [Demo]()
-- [Puntos importantes]()
-- [Librerías]()
 - [Atribuciones]()
 
 ## Cómo jugar
@@ -17,21 +15,12 @@ El objetivo principal es empujar las cajas dispuestas en el nivel en los cuadrad
 
 ## Demo
 
-Se puede ver la [demostración del juego en video](https://youtu.be/2ehA4Jlo-nI) en Youtube para su versión de PC. 
-
-
-## Librerías
-
+Se puede ver la [demostración del juego en video](https://youtu.be/ERlyqRKOxlg) en Youtube para su versión de PC. 
 
 
 ## Atribuciones
 
-- **Música ambiente**: [Usuario szegvari](https://freesound.org/people/szegvari/sounds/581635/)
+- **Sprites Entorno**: [Web Kenney]([https://freesound.org/people/szegvari/sounds/581635/](https://kenney.nl/assets/sokoban))
 
-- **Música Menu**: [Usuario LushoGames](https://opengameart.org/content/simple-action-beat)
+- **Sprite personaje**: [Usuario ]()
 
-- **Grito hombre**: [Usuario congusbongus](https://opengameart.org/content/aargh-male-screams)
-
-- **Grito mujer**: [Usuario Hali_Pinson](https://freesound.org/people/Hali_Pinson/sounds/328000/)
-
-- **Sonido curación**: [Usuario Zoltan Mihalyi](https://opengameart.org/content/heal)
