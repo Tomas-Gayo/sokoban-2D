@@ -4,7 +4,7 @@ Sokoban Editor 2D es un editor de niveles con las mecánicas del juego original 
 ## Index
 
 - [Cómo jugar](https://github.com/Tomas-Gayo/sokoban-2D/blob/main/README.md#c%C3%B3mo-jugar)
-- [Demo]()
+- [Demo](https://github.com/Tomas-Gayo/sokoban-2D/blob/main/README.md#demo)
 - [Atribuciones]()
 
 ## Cómo jugar
